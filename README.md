@@ -1,8 +1,13 @@
 #=================================================#
 # BANK MANAGEMENT SIMULATOR
-# M. Bonal 2024
-# Java Language Syntax
 #=================================================#
+
+#========INFO============#
+- M. Bonal Summer 2024
+- Java Language Syntax
+- Individual Project
+- Java Self Study
+#=======================#
 #==============================OVERVIEW==========================================#
 - This document serves as a structural overview of the bank management simulator.
 - Java language syntax was implemented to build a 13 filed project
