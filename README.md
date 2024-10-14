@@ -30,7 +30,7 @@
 #============NOT INCLUDED================#
 - mysql-connector-java-8.0.2.8.jar
 - jcalendar files/ license
-- mySQL applicsation
+- mySQL application
 - Vs Code Extentions
   
 #========================================#
