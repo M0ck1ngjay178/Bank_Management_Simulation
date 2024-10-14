@@ -9,7 +9,7 @@
 - Java Self Study
   
 #=======================#
-#==============================OVERVIEW======================================#
+#==============================OVERVIEW=====================================#
 - This document serves as a structural overview of the bank management simulator.
 - Java language syntax was implemented to build a 13 filed project
 - Object-oriented appproach to build various class structures
