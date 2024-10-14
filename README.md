@@ -7,6 +7,7 @@
 - Java Language Syntax
 - Individual Project
 - Java Self Study
+  
 #=======================#
 #==============================OVERVIEW==========================================#
 - This document serves as a structural overview of the bank management simulator.
@@ -16,6 +17,7 @@
 - UX/UI created for various interactive windows
 - Updating Query, providing current user data
 #================================================================================#
+
 #==============LIBRARIES=================#
 - javax.swing.*
 - java.awt.*
@@ -23,6 +25,7 @@
 - java.sql.*
 - java.util.*
 #========================================#
+
 #============NOT INCLUDED================#
 - mysql-connector-java-8.0.2.8.jar
 - jcalendar files/ license
