@@ -16,7 +16,7 @@
 - API connectivity to mySQL database
 - UX/UI created for various interactive windows
 - Updating Query, providing current user data
-#============================================================================#
+#=======================================================================#
 
 #==============LIBRARIES=================#
 - javax.swing.*
